@@ -1,0 +1,169 @@
+{
+    "city_names": [
+        "osaka",
+        "sapporo",
+        "sendai"
+    ],
+    "records": [
+        {
+            "timestamp": "2025-12-08T16:31:12.703584",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 1,
+                    "sendai": 1
+                },
+                "sapporo": {
+                    "osaka": 0,
+                    "sapporo": 0,
+                    "sendai": 2
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 2,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T16:35:47.794894",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 4
+                },
+                "sapporo": {
+                    "osaka": 0,
+                    "sapporo": 0,
+                    "sendai": 3
+                },
+                "sendai": {
+                    "osaka": 3,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T16:40:57.133716",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 4
+                },
+                "sapporo": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 2
+                },
+                "sendai": {
+                    "osaka": 0,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T16:45:34.414752",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 1,
+                    "sendai": 3
+                },
+                "sapporo": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T16:50:29.881590",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 1
+                },
+                "sapporo": {
+                    "osaka": 2,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 2,
+                    "sapporo": 0,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T16:55:29.480877",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 1,
+                    "sendai": 3
+                },
+                "sapporo": {
+                    "osaka": 0,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T17:00:29.480209",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 1,
+                    "sendai": 2
+                },
+                "sapporo": {
+                    "osaka": 5,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T17:05:23.867179",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 0
+                },
+                "sapporo": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 0
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 2,
+                    "sendai": 0
+                }
+            }
+        }
+    ]
+}

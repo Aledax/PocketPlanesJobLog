@@ -1,0 +1,14 @@
+[
+    {
+        "name": "osaka",
+        "population_100k": 40
+    },
+    {
+        "name": "sapporo",
+        "population_100k": 30
+    },
+    {
+        "name": "sendai",
+        "population_100k": 20
+    }
+]
