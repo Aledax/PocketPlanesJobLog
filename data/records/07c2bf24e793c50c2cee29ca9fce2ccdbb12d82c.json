@@ -6,27 +6,127 @@
     ],
     "records": [
         {
-            "timestamp": "2025-12-08T16:31:12.703584",
+            "timestamp": "2025-12-08T19:24:15.660197",
             "counts": {
                 "osaka": {
                     "osaka": 0,
                     "sapporo": 1,
-                    "sendai": 1
+                    "sendai": 3
                 },
                 "sapporo": {
-                    "osaka": 0,
+                    "osaka": 3,
                     "sapporo": 0,
                     "sendai": 2
                 },
                 "sendai": {
-                    "osaka": 1,
+                    "osaka": 4,
+                    "sapporo": 0,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T19:25:32.422669",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 3,
+                    "sendai": 5
+                },
+                "sapporo": {
+                    "osaka": 2,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 0,
                     "sapporo": 2,
                     "sendai": 0
                 }
             }
         },
         {
-            "timestamp": "2025-12-08T16:35:47.794894",
+            "timestamp": "2025-12-08T19:31:03.106557",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 5,
+                    "sendai": 1
+                },
+                "sapporo": {
+                    "osaka": 4,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T19:43:41.808525",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 7,
+                    "sendai": 2
+                },
+                "sapporo": {
+                    "osaka": 3,
+                    "sapporo": 0,
+                    "sendai": 3
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T19:50:29.979327",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 5,
+                    "sendai": 3
+                },
+                "sapporo": {
+                    "osaka": 2,
+                    "sapporo": 0,
+                    "sendai": 2
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T20:52:56.598725",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 4,
+                    "sendai": 1
+                },
+                "sapporo": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 5
+                },
+                "sendai": {
+                    "osaka": 2,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T20:55:26.858837",
             "counts": {
                 "osaka": {
                     "osaka": 0,
@@ -34,124 +134,64 @@
                     "sendai": 4
                 },
                 "sapporo": {
-                    "osaka": 0,
+                    "osaka": 2,
                     "sapporo": 0,
-                    "sendai": 3
+                    "sendai": 0
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T21:00:30.208764",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 4,
+                    "sendai": 1
+                },
+                "sapporo": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 5
                 },
                 "sendai": {
                     "osaka": 3,
-                    "sapporo": 1,
+                    "sapporo": 0,
                     "sendai": 0
                 }
             }
         },
         {
-            "timestamp": "2025-12-08T16:40:57.133716",
+            "timestamp": "2025-12-08T21:05:52.602522",
             "counts": {
                 "osaka": {
                     "osaka": 0,
-                    "sapporo": 2,
+                    "sapporo": 5,
                     "sendai": 4
-                },
-                "sapporo": {
-                    "osaka": 1,
-                    "sapporo": 0,
-                    "sendai": 2
-                },
-                "sendai": {
-                    "osaka": 0,
-                    "sapporo": 1,
-                    "sendai": 0
-                }
-            }
-        },
-        {
-            "timestamp": "2025-12-08T16:45:34.414752",
-            "counts": {
-                "osaka": {
-                    "osaka": 0,
-                    "sapporo": 1,
-                    "sendai": 3
-                },
-                "sapporo": {
-                    "osaka": 1,
-                    "sapporo": 0,
-                    "sendai": 1
-                },
-                "sendai": {
-                    "osaka": 1,
-                    "sapporo": 0,
-                    "sendai": 0
-                }
-            }
-        },
-        {
-            "timestamp": "2025-12-08T16:50:29.881590",
-            "counts": {
-                "osaka": {
-                    "osaka": 0,
-                    "sapporo": 2,
-                    "sendai": 1
-                },
-                "sapporo": {
-                    "osaka": 2,
-                    "sapporo": 0,
-                    "sendai": 1
-                },
-                "sendai": {
-                    "osaka": 2,
-                    "sapporo": 0,
-                    "sendai": 0
-                }
-            }
-        },
-        {
-            "timestamp": "2025-12-08T16:55:29.480877",
-            "counts": {
-                "osaka": {
-                    "osaka": 0,
-                    "sapporo": 1,
-                    "sendai": 3
-                },
-                "sapporo": {
-                    "osaka": 0,
-                    "sapporo": 0,
-                    "sendai": 1
-                },
-                "sendai": {
-                    "osaka": 1,
-                    "sapporo": 1,
-                    "sendai": 0
-                }
-            }
-        },
-        {
-            "timestamp": "2025-12-08T17:00:29.480209",
-            "counts": {
-                "osaka": {
-                    "osaka": 0,
-                    "sapporo": 1,
-                    "sendai": 2
                 },
                 "sapporo": {
                     "osaka": 5,
                     "sapporo": 0,
-                    "sendai": 1
+                    "sendai": 2
                 },
                 "sendai": {
-                    "osaka": 0,
-                    "sapporo": 2,
+                    "osaka": 1,
+                    "sapporo": 1,
                     "sendai": 0
                 }
             }
         },
         {
-            "timestamp": "2025-12-08T17:05:23.867179",
+            "timestamp": "2025-12-08T21:10:30.509242",
             "counts": {
                 "osaka": {
                     "osaka": 0,
                     "sapporo": 2,
-                    "sendai": 0
+                    "sendai": 1
                 },
                 "sapporo": {
                     "osaka": 1,
@@ -161,6 +201,126 @@
                 "sendai": {
                     "osaka": 1,
                     "sapporo": 2,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T21:15:28.392086",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 3,
+                    "sendai": 4
+                },
+                "sapporo": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 0
+                },
+                "sendai": {
+                    "osaka": 0,
+                    "sapporo": 0,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-08T21:20:22.198544",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 5,
+                    "sendai": 0
+                },
+                "sapporo": {
+                    "osaka": 2,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 2,
+                    "sapporo": 2,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-09T07:22:00.482146",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 1
+                },
+                "sapporo": {
+                    "osaka": 1,
+                    "sapporo": 0,
+                    "sendai": 1
+                },
+                "sendai": {
+                    "osaka": 2,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-09T07:25:53.470156",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 4,
+                    "sendai": 2
+                },
+                "sapporo": {
+                    "osaka": 2,
+                    "sapporo": 0,
+                    "sendai": 0
+                },
+                "sendai": {
+                    "osaka": 1,
+                    "sapporo": 1,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-09T07:31:00.868995",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 1
+                },
+                "sapporo": {
+                    "osaka": 0,
+                    "sapporo": 0,
+                    "sendai": 2
+                },
+                "sendai": {
+                    "osaka": 2,
+                    "sapporo": 3,
+                    "sendai": 0
+                }
+            }
+        },
+        {
+            "timestamp": "2025-12-09T07:35:27.973984",
+            "counts": {
+                "osaka": {
+                    "osaka": 0,
+                    "sapporo": 2,
+                    "sendai": 5
+                },
+                "sapporo": {
+                    "osaka": 0,
+                    "sapporo": 0,
+                    "sendai": 5
+                },
+                "sendai": {
+                    "osaka": 2,
+                    "sapporo": 1,
                     "sendai": 0
                 }
             }

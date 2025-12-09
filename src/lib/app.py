@@ -87,7 +87,7 @@ class TkApp(tk.Tk):
         self.select_city_button = self.material.button(
             self.select_city_panel,
             {'row': 2, 'column': 1, 'sticky': tk.NS},
-            'Generate\nRecord\nTable',
+            'Generate\nJob\nMatrix',
             self.update_record_matrix
         )
         self.update_select_city_listbox()
@@ -99,7 +99,7 @@ class TkApp(tk.Tk):
         self.record_header = self.material.header(
             self.record_panel,
             {'row': 0, 'column': 0},
-            'Job Counts'
+            'Count Jobs'
         )
         self.record_header_spacer = self.material.spacer_v(
             self.record_panel,
